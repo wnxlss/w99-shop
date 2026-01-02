@@ -1,9 +1,4 @@
 🛍️ W99 - AI-Powered Telegram Shop Bot
-<div align="center">
-https://img.shields.io/badge/Python-3.10+-blue?logo=python
-https://img.shields.io/badge/Aiogram-3.x-green?logo=telegram
-https://img.shields.io/badge/License-MIT-yellow
-https://img.shields.io/badge/Status-Active-success
 
 ✨ Мощный, современный и полностью автоматизированный магазин в Telegram ✨
 
@@ -62,10 +57,6 @@ W99 — это не просто бот, а полноценная экосис�
 <div align="center">
 ⭐ Понравился проект? Поставьте звезду!
 W99 — это будущее Telegram-коммерции. Присоединяйтесь к революции!
-
-https://img.shields.io/badge/Deploy_on-VPS-blueviolet
-https://img.shields.io/badge/Docs-Read%2520Now-orange
-https://img.shields.io/badge/Donate-Buy%2520Coffee-red
 
 </div>
 © 2024 W99 Shop Bot. Все права защищены.
